@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo(a) 👋</h1>
 <h2>🚀 Sobre mim</h2>
-<h3># Olá! Bem-vindo ao meu perfil do Github
-## Meu nome é Matheus Grisostomo Bevilaqua e meu apelido é "MathGriBe"!</h3> 
+<h3># Olá! Bem-vindo ao meu perfil do Github</h3>
+<h3>## Meu nome é Matheus Grisostomo Bevilaqua e meu apelido é "MathGriBe"!</h3> 
 <p>
   <ul>🎓 Estudante de Análise e Desenvolvimento de Sistemas</ul>
   <ul>💻 Aprendendo: Atualmente estudando Java (Web)</ul>
@@ -10,13 +10,15 @@
 
 ## Ferramentas e Tecnologias
 <p align="center">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
 </p>
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/>
+</p>
 
 ## Contatos:
 <div>
@@ -26,8 +28,8 @@
 
 <div>
 <a href="https://github.com/MathGriBe">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MathGriBe&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?MathGriBe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathGriBe&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MathGriBe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/MathGriBe/MathGriBe/blob/output/github-contribution-grid-snake.svg)
